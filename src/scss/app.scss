@@ -28,6 +28,10 @@ html {
   flex-flow: column;
 }
 
+.discounts {
+	display: none;
+}
+
 @media screen and (max-width: 600px) {
 	.discounts {
 		display: block;
